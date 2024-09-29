@@ -1,6 +1,5 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -48,10 +47,10 @@ title = "My New Hugo Site"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Korekoi's Blog"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Sharing whatever we develop and learn."
       owner = ""
       keywords = ""
       copyright = ""
@@ -66,7 +65,7 @@ title = "My New Hugo Site"
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Korekoi"
         logoHomeLink = "/"
 
       [languages.en.menu]
